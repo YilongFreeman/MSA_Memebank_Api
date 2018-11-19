@@ -1,0 +1,14 @@
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\bin\Debug\netcoreapp2.1\Memebank.deps.json
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\bin\Debug\netcoreapp2.1\Memebank.runtimeconfig.json
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\bin\Debug\netcoreapp2.1\Memebank.runtimeconfig.dev.json
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\bin\Debug\netcoreapp2.1\Memebank.dll
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\bin\Debug\netcoreapp2.1\Memebank.pdb
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\obj\Debug\netcoreapp2.1\Memebank.csprojAssemblyReference.cache
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\obj\Debug\netcoreapp2.1\Memebank.csproj.CoreCompileInputs.cache
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\obj\Debug\netcoreapp2.1\Memebank.RazorAssemblyInfo.cache
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\obj\Debug\netcoreapp2.1\Memebank.RazorAssemblyInfo.cs
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\obj\Debug\netcoreapp2.1\Memebank.AssemblyInfoInputs.cache
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\obj\Debug\netcoreapp2.1\Memebank.AssemblyInfo.cs
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\obj\Debug\netcoreapp2.1\Memebank.RazorTargetAssemblyInfo.cache
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\obj\Debug\netcoreapp2.1\Memebank.dll
+C:\Users\Yilong\Desktop\MSA_api\Memebank\Memebank\obj\Debug\netcoreapp2.1\Memebank.pdb
